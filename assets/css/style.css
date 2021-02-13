@@ -1,0 +1,37 @@
+html,
+body {
+    margin:0;
+    padding:0;
+}
+
+
+body {
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    color: white;
+    background-color: #333333;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+h2 {
+    font-size: 16px;
+    color: #777777;
+}
+
+p {
+    padding: 10px;
+    color:  #777777;
+}
+
+a {
+    color: aquamarine;
+}
+
+.container {
+    padding: 20px;
+}
